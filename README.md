@@ -25,17 +25,7 @@ App Link:  https://agile-ridge-63446.herokuapp.com/
 
 ## Friend-Finder Screenshots
 
-Homepage:
-
-<img width="1426" alt="screen shot 2018-11-14 at 4 37 23 pm" src="https://user-images.githubusercontent.com/38221513/48514198-c750d000-e82b-11e8-851d-69edc277f446.png">
-
-
-Questions providing 5 choices ranging from 1 (Strongly Disagree) to 5 (Strongly Agree):
-
-
-
-Resulting friend match via modal:
-
+Demonstration video for completing the survey to finding a new best friend:
 
 
 
