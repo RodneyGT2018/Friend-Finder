@@ -21,11 +21,15 @@ You will use Express to handle routing. Make sure you deploy your app to Heroku 
 
 
 
-## Bamazon Customer Portal
+## Friend-Finder Screenshots
 
-The Bamazon Customer Portal allows users to view a table of available items to buy.  The user will be prompted to enter the Item ID number and the quantity to purchase.  If the current stock is greater than or equal to the requested quantity, the order will be completed and the user will see the total amount of their purchase.
+Questions providing 5 choices ranging from 1 (Strongly Disagree) to 5 (Strongly Agree):
+
 
 <img width="629" alt="pic01_purchsuccess" src="https://user-images.githubusercontent.com/38221513/48067423-47c56000-e19e-11e8-8a80-b40faf5b8221.png">
+
+
+Resulting friend match via modal:
 
 
 
