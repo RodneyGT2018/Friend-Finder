@@ -3,7 +3,7 @@
 var friendList = [
   {
     name: 'Rodney Stephenson',
-    profilePic: 'https://avatars2.githubusercontent.com/u/38221513?s=460&v=4',
+    profilePic: 'https://media.licdn.com/dms/image/C5603AQEChKy9HwpM7w/profile-displayphoto-shrink_200_200/0?e=1547683200&v=beta&t=zanxcPcs-oXj7ougKtQtDEfsaV5nttjbZv4r8SkXgOc',
     scores: [
       "2",
       "4",

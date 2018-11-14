@@ -6,6 +6,8 @@ Build a compatibility-based "FriendFinder" application -- basically a dating app
 
 You will use Express to handle routing. Make sure you deploy your app to Heroku so other users can fill it out. 
 
+App Link:  https://agile-ridge-63446.herokuapp.com/
+
 
 ### Technologies Used:
 
@@ -25,8 +27,6 @@ You will use Express to handle routing. Make sure you deploy your app to Heroku 
 
 Questions providing 5 choices ranging from 1 (Strongly Disagree) to 5 (Strongly Agree):
 
-
-<img width="629" alt="pic01_purchsuccess" src="https://user-images.githubusercontent.com/38221513/48067423-47c56000-e19e-11e8-8a80-b40faf5b8221.png">
 
 
 Resulting friend match via modal:
