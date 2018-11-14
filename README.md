@@ -27,7 +27,9 @@ App Link:  https://agile-ridge-63446.herokuapp.com/
 
 Demonstration video for completing the survey to finding a new best friend:
 
-
+<video width="320" height="240" controls>
+  <source src="RRS-Friend-Finder.mov" type="video/mp4">
+</video>
 
 
 
